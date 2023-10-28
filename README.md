@@ -2,7 +2,7 @@
 
 A classic Tic-Tac-Toe game using React.js, a 3x3 game board that tracks player turns and determines game outcomes, includes a reset button and a responsive design. Showcase React skills with this interactive and enjoyable project.
 
-### Hosted link: 
+### Hosted link: https://pine-tic-tac-toe.netlify.app
 
 ## How to setup the project on local system
 - Clone this project to your local system.
